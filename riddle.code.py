@@ -1,4 +1,3 @@
-
 riddle1 = input ("what can run but not walk? ")
 
 while riddle1 != "water":
@@ -19,4 +18,3 @@ while riddle3 != "the future" :
     print("sorry, try again")
     riddle3 = input ("what is always ahead but cant be seen? ")
 print("well done.")
-# Write your code here :-)
